@@ -1,8 +1,11 @@
 # Hey there, I'm Manas Saha! 👋
 
 
-- 👨‍💻 I am working on [**The PUC Project**](https://github.com/Manas8803/The-PUC-Project), a system for monitoring vehicle pollution and improving air quality through emission compliance.<br><br>- 🌐 Interested in collaborating on Cloud-based projects<br><br>📫 How to reach me: manassaha0803@gmail.com<br><br>- 🔭 Passionate about leveraging technology to address environmental challenges<br><br>- 🌱 Always learning and exploring new technologies in cloud computing and IoT<br><br>- 💡 Seeking opportunities to contribute to impactful, innovative projects
-
+- 👨‍💻 I am working on [**The PUC Project**](https://github.com/Manas8803/The-PUC-Project), a system for monitoring vehicle pollution and improving air quality through emission compliance.
+- 🌐 Interested in collaborating on Cloud-based projects.
+- 🌱 Always learning and exploring new technologies in cloud computing 
+- 💡 Seeking opportunities to contribute to impactful, innovative projects
+- 📫 How to reach me: manassaha0803@gmail.com.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-saha-479154233) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@manassaha0803) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19734038) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ManasS47757) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Manas8803) 
