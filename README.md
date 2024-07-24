@@ -1,6 +1,7 @@
 # Hi there 👋
 
-Currently working on The PUC Project<br>   An integrated system for monitoring vehicle pollution<br>   Validates Pollution Under Control (PUC) certificates<br>   Aims to improve air quality by ensuring compliance with emission standards<br><br>Interested in collaborating on Cloud-based projects<br><br>How to reach me: manassaha0803@gmail.com<br><br>Passionate about leveraging technology to address environmental challenges<br><br>Always learning and exploring new technologies in cloud computing and IoT<br><br>Seeking opportunities to contribute to impactful, innovative projects
+
+👨‍💻 Currently working on The PUC Project: An integrated system for monitoring vehicle pollution, validating PUC certificates, and improving air quality through emission compliance.<br><br>🌐 Interested in collaborating on Cloud-based projects<br><br>📫 How to reach me: manassaha0803@gmail.com<br><br>🔭 Passionate about leveraging technology to address environmental challenges<br><br>🌱 Always learning and exploring new technologies in cloud computing and IoT<br><br>💡 Seeking opportunities to contribute to impactful, innovative projects
 
 
 ## 🌐 Socials:
